@@ -9,6 +9,8 @@
 🧪 Ao longo da minha formação, participei de projetos de pesquisa e desenvolvi experiências práticas com análise de dados, modelagem preditiva, visualização de informações e elaboração de relatórios.
 
 🛠️ Ferramentas e tecnologias
+
+
 Linguagens: R, Python e SQL;
 Bibliotecas: Pandas, NumPy, Scikit-Learn, ggplot2, dplyr e outras;
 Áreas de atuação: análise exploratória de dados (EDA), Machine Learning (Regressão Logística, Random Forest, KNN, Validação Cruzada, ROC
