@@ -12,9 +12,11 @@
 
 
 Linguagens: R, Python e SQL;
+
 Bibliotecas: Pandas, NumPy, Scikit-Learn, ggplot2, dplyr e outras;
-Áreas de atuação: análise exploratória de dados (EDA), Machine Learning (Regressão Logística, Random Forest, KNN, Validação Cruzada, ROC
-AUC, RMSE), Limpeza e Tratamento de Dados (ETL), análise de sobrevivência e modelos de fragilidade;
+
+Áreas de atuação: análise exploratória de dados (EDA), Machine Learning, Limpeza e Tratamento de Dados (ETL), análise de sobrevivência e modelos de fragilidade;
+
 Ferramentas:  Power BI, Excel Avançado, RStudio, Git, GitHub, Quarto, Markdown e LaTeX.
 
 
