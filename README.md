@@ -22,8 +22,8 @@ Ferramentas:  Power BI, Excel Avançado, RStudio, Git, GitHub, Quarto, Markdown 
 
 🌐 Contato
 
-* 💼 LinkedIn: [linkedin.com/in/seu-usuario](https://www.linkedin.com/in/telianasouza1309)
-* 📧 E-mail: [seuemail@gmail.com](mailto:Telianasouza13@gmail.com)
+* 💼 LinkedIn: [linkedin.com/in/Teliana1309](https://www.linkedin.com/in/telianasouza1309)
+* 📧 E-mail: [Telianasouza13@gmail.com](mailto:Telianasouza13@gmail.com)
 
 
 
